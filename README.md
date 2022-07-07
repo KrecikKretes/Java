@@ -1,2 +1,2 @@
-# java-studing
-Everything I have learned 
+# Java-studing
+Few files with my first steps in Java
