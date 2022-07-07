@@ -1,2 +1,2 @@
-# java-studying
+# Java
 Everything I have learned 
