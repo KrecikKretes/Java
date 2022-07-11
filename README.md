@@ -1,1 +1,1 @@
-# Jokes about Chuck Norris and weatcher checker in Cracow
+# Jokes about Chuck Norris and weatcher forecast in Cracow
